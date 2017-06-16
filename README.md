@@ -1,6 +1,4 @@
-<center>Welcome To Github</center>
-
-### github pages
+<center>Welcome To Github Pages</center>
 
 ## code2things
 
@@ -42,20 +40,19 @@
 
 
 
-<font color="#808080" size="6px">项目制作:</font>
+<font color="#808080" size="6px">项目制作</font>：
 
 
-<font color="#FF0000" size="4px">名称:</font>
+<font color="#FF0000" size="4px">名称</font>：
 炫光耳机架
 
-<font color="#FF0000" size="4px">简介:</font>
+<font color="#FF0000" size="4px">简介</font>：
 创意总来源于一些不起眼的地方，这一次我们把目光放在了耳机支架上。为了匹配一副高档的耳机，一个精美的耳机架总会使耳机显得更加完美，而耳机架本生却少有亮点。这一次，我们在满足耳机架低成本的市场要求下加入了炫光效果以及伸缩功能。当音乐的律动伴随着耳机架上的光带，想来是十分酷炫的。于此，炫光耳机由此而生。
 
-<font color="#FF0000" size="4px">设计方案：</font>
+<font color="#FF0000" size="4px">设计方案</font>：
 在基于常规式的耳机加上，我们在底座加入了一条灯带。在正中位置放置支架，在不用之时可伸缩回底座内部。对于整个耳机架，我们尽可能将其外形整体化，使之形式一个大头贴。
 
-<font color="#FF0000" size="4px">成品展示：</font>
-图片展示
+<font color="#FF0000" size="4px">成品展示</font>：
 
-<font color="#FF0000" size="4px">心得体会:</font>
+<font color="#FF0000" size="4px">心得体会</font>：
 一次小小的尝试，一次结束后的总结。尽可能的把课上提及的点有所涉及。慢慢地，从粗制滥造，终会到精致美观。谨作为一个过程去见识最终的产品。
