@@ -2,7 +2,7 @@
 
 ## code2things
 
-![github]（https://github.com/beginnerever/C2T/blob/master/picture/1.jpg ）
+![github]（https://github.com/beginnerever/C2T/blob/master/picture/1.jpg)
 
  <font color="#808080" size="6px">组内成员：</font>
 
@@ -40,9 +40,9 @@
 <font color="#FF0000" size="4px">设计方案：</font>
 在基于常规式的耳机加上，我们在底座加入了一条灯带。在正中位置放置支架，在不用之时可伸缩回底座内部。对于整个耳机架，我们尽可能将其外形整体化，使之形式一个大头贴。    
 
-![3D打印机]（https://github.com/beginnerever/C2T/blob/master/picture/2.jpg ）    
+![3D打印机]（https://github.com/beginnerever/C2T/blob/master/picture/2.jpg)  
 
-![激光切割机]（https://github.com/beginnerever/C2T/blob/master/picture/3.jpg ）
+![激光切割机]（https://github.com/beginnerever/C2T/blob/master/picture/3.jpg)
 
 <font color="#FF0000" size="4px">作品展示：</font>
 /
