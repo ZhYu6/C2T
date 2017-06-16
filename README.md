@@ -1,23 +1,21 @@
-# Welcome To Github
+<center>#Welcome To Github</center>
 
 ### github pages
 
 ## code2things
 
-<font color=gray size=6>组内成员：</font>
+ <font color="#808080" size="6px">组内成员：</font>
 
  姓名   | 学号        | 专业  
 
- -------|-------------|-------
-
  张羽   | 2016111812  | 电气  
 
- 曹越   | 201611100   | 机械  
+ 曹越   | 2016111000  | 机械  
 
  石文旭 | 2016110167  | 茅测  
 
 
- <font color="#4590a3" size="6px">课程心得：</font>
+<font color="#808080" size="6px">课程心得：</font>
 
 
 1、第一次上课，老师带我们认识了github这个全球最大的开源社区。为成为一个编程大佬，隐隐迈开了重要的一步。作为最最基础的网页制作，到了期末，也是运用到了实处。
@@ -43,17 +41,24 @@
 总结：实战的最好的老师，幸运的是这门课从不以老师自讲自话的方式授课，只有依照老师一步一步操作下去，才会有最深刻的记忆。当然对于我们而言，有时候可能老师还是高估了我们的理解水平，偶尔一两个稍专业的词汇就可以立马让我们脱节了。。不过收获无疑是明显的，只因此，maker不再是一个陌生词汇而已，因为我们现在也是了。
 
 
-<font color=gray size=6>项目制作:</font>
+
+<font color="#808080" size="6px">项目制作:</font>
 
 
-<font color=green size=4>名称:</font>
 
-<font color=green size=4>简介:</font>
+<font color="#ADFF2F" size="4px">名称:</font>
+
+
+<font color="#ADFF2F" size="4px">简介:</font>
 创意总来源于一些不起眼的地方，这一次我们把目光放在了耳机支架上。为了匹配一副高档的耳机，一个精美的耳机架总会使耳机显得更加完美，而耳机架本生却少有亮点。这一次，我们在满足耳机架低成本的市场要求下加入了炫光效果以及伸缩功能。当音乐的律动伴随着耳机架上的光带，想来是十分酷炫的。于此，炫光耳机由此而生。
 
-<font color=green size=4>设计方案：</font>
+
+<font color="#ADFF2F" size="4px"设计方案：</font>
 在基于常规式的耳机加上，我们在底座加入了一条灯带。在正中位置放置支架，在不用之时可伸缩回底座内部。对于整个耳机架，我们尽可能将其外形整体化，使之形式一个大头贴。
 
-<font color=green size=4>成品展示：</font>
 
-<font color=green size=4>心得体会</font>
+<font color="#ADFF2F" size="4px">成品展示：</font>
+
+
+<font color="#ADFF2F" size="4px">心得体会</font>
+
