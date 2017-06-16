@@ -2,7 +2,7 @@
 
 ## code2things
 
-![github]（https://github.com/beginnerever/C2T/blob/master/github.jpg）
+![github]（https://github.com/beginnerever/C2T/blob/master/图片/github.jpg）
 
  <font color="#808080" size="6px">组内成员：</font>
 
