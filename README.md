@@ -42,7 +42,7 @@
 
 ![3D打印机](https://github.com/beginnerever/C2T/blob/master/picture/2.jpg)
 
-![激光切割机]（https://github.com/beginnerever/C2T/blob/master/picture/3.jpg)
+![激光切割机](https://github.com/beginnerever/C2T/blob/master/picture/3.jpg)
 
 <font color="#FF0000" size="4px">作品展示：</font>
 /
