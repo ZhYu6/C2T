@@ -38,9 +38,11 @@
 创意总来源于一些不起眼的地方，这一次我们把目光放在了耳机支架上。为了匹配一副高档的耳机，一个精美的耳机架总会使耳机显得更加完美，而耳机架本生却少有亮点。这一次，我们在满足耳机架低成本的市场要求下加入了炫光效果以及伸缩功能。当音乐的律动伴随着耳机架上的光带，想来是十分酷炫的。于此，炫光耳机由此而生。
 
 <font color="#FF0000" size="4px">设计方案：</font>
-在基于常规式的耳机加上，我们在底座加入了一条灯带。在正中位置放置支架，在不用之时可伸缩回底座内部。对于整个耳机架，我们尽可能将其外形整体化，使之形式一个大头贴。
-![3D打印机]（https://github.com/beginnerever/C2T/blob/master/%E5%9B%BE%E7%89%87/3D%E6%89%93%E5%8D%B0%E6%9C%BA.jpg）
-![激光切割机]（https://github.com/beginnerever/C2T/blob/master/%E5%9B%BE%E7%89%87/%E6%BF%80%E5%85%89%E5%88%87%E5%89%B2%E6%9C%BA.jpg）
+在基于常规式的耳机加上，我们在底座加入了一条灯带。在正中位置放置支架，在不用之时可伸缩回底座内部。对于整个耳机架，我们尽可能将其外形整体化，使之形式一个大头贴。    
+
+![3D打印机]（https://github.com/beginnerever/C2T/blob/master/picture/2.jpg）    
+
+![激光切割机]（https://github.com/beginnerever/C2T/blob/master/picture/2.jpg）
 
 <font color="#FF0000" size="4px">作品展示：</font>
 /
